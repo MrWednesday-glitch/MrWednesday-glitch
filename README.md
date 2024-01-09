@@ -12,8 +12,6 @@
     </h1>
 </div>
 
----
-
 ### About me:
 I am a full stack developer from the Netherlands. 
 - Currently sharpening my programming skills and building a portfolio at ITvitae in Amersfoort.
