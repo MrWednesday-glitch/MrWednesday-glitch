@@ -22,7 +22,7 @@ I am a full stack developer from the Netherlands.
 
 ### :hammer_and_wrench: Language and Tools:
 <div>
-    <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+    <img src="[https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png](https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png)" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png" title="c-sharp" alt="c-sharp" width="40" height="40"/>&nbsp;
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://cdn4.iconfinder.com/data/icons/file-formats-3/100/scss_sass_css_file_format-256.png"  title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
